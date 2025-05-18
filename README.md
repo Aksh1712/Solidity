@@ -6,14 +6,14 @@ A complete implementation of the [CryptoZombies](https://cryptozombies.io) Solid
 
 ## 📚 Course Progress
 
-| Lesson | Status | Topics Covered | Screenshot |
-|--------|--------|----------------|------------|
-| 1: Making the Zombie Factory | ✅ | Solidity basics, contracts, structs, arrays, functions | ![Lesson 1]. |
-| 2: Zombies Attack Their Victims | ✅ | Mappings, msg.sender, inheritance, imports, interfaces | ![Lesson 2]. |
-| 3: Advanced Solidity Concepts | ✅ | Function modifiers, ownable contracts, gas optimization | ![Lesson 3]. |
-| 4: Zombie Battle System | ✅ | Random number generation, battle functionality | ![Lesson 4]. |
-| 5: ERC721 & Crypto-Collectibles | ✅ | ERC721 tokens, token transfers, SafeMath | ![Lesson 5]. |
-| 6: App Front-ends & Web3.js | ✅ | Web3.js, frontend integration with Ethereum | ![Lesson 6]. |
+| Lesson | Status | Topics Covered |
+|--------|--------|----------------|
+| 1: Making the Zombie Factory | ✅ | Solidity basics, contracts, structs, arrays, functions |
+| 2: Zombies Attack Their Victims | ✅ | Mappings, msg.sender, inheritance, imports, interfaces |
+| 3: Advanced Solidity Concepts | ✅ | Function modifiers, ownable contracts, gas optimization |
+| 4: Zombie Battle System | ✅ | Random number generation, battle functionality |
+| 5: ERC721 & Crypto-Collectibles | ✅ | ERC721 tokens, token transfers, SafeMath |
+| 6: App Front-ends & Web3.js | ✅ | Web3.js, frontend integration with Ethereum |
 
 ## 🚀 Features
 
