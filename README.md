@@ -1,7 +1,6 @@
 
 # 🧟 CryptoZombies Solidity Course Implementation
 
-![CryptoZombies Banner](screenshots/cryptozombies-banner.png)
 
 A complete implementation of the [CryptoZombies](https://cryptozombies.io) Solidity course, which teaches how to build games on Ethereum.
 
@@ -9,12 +8,12 @@ A complete implementation of the [CryptoZombies](https://cryptozombies.io) Solid
 
 | Lesson | Status | Topics Covered | Screenshot |
 |--------|--------|----------------|------------|
-| 1: Making the Zombie Factory | ✅ | Solidity basics, contracts, structs, arrays, functions | ![Lesson 1](screenshots/lesson1-completion.png) |
-| 2: Zombies Attack Their Victims | ✅ | Mappings, msg.sender, inheritance, imports, interfaces | ![Lesson 2](screenshots/lesson2-gameplay.png) |
-| 3: Advanced Solidity Concepts | ✅ | Function modifiers, ownable contracts, gas optimization | ![Lesson 3](screenshots/lesson3-advanced-concepts.png) |
-| 4: Zombie Battle System | ✅ | Random number generation, battle functionality | ![Lesson 4](screenshots/lesson4-battle-system.png) |
-| 5: ERC721 & Crypto-Collectibles | ✅ | ERC721 tokens, token transfers, SafeMath | ![Lesson 5](screenshots/lesson5-erc721.png) |
-| 6: App Front-ends & Web3.js | ✅ | Web3.js, frontend integration with Ethereum | ![Lesson 6](screenshots/lesson6-web3js.png) |
+| 1: Making the Zombie Factory | ✅ | Solidity basics, contracts, structs, arrays, functions | ![Lesson 1]. |
+| 2: Zombies Attack Their Victims | ✅ | Mappings, msg.sender, inheritance, imports, interfaces | ![Lesson 2]. |
+| 3: Advanced Solidity Concepts | ✅ | Function modifiers, ownable contracts, gas optimization | ![Lesson 3]. |
+| 4: Zombie Battle System | ✅ | Random number generation, battle functionality | ![Lesson 4]. |
+| 5: ERC721 & Crypto-Collectibles | ✅ | ERC721 tokens, token transfers, SafeMath | ![Lesson 5]. |
+| 6: App Front-ends & Web3.js | ✅ | Web3.js, frontend integration with Ethereum | ![Lesson 6]. |
 
 ## 🚀 Features
 
